@@ -1,0 +1,158 @@
+<html lang="nl"><head></head><body id="Layout_0" class="position-r"><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined property: stdClass::$pageMetaTitle</p>
+<p>Filename: frontend/frontendvalues.php</p>
+<p>Line Number: 169</p>
+
+</div>
+
+
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+   <meta name="keywords" content="">
+   <meta name="description" content="">
+   <meta name="google-site-verification" content="">
+   <meta name="robots" content="noindex, nofollow">
+   <meta name="theme-color" content="#ffffff">
+      <meta property="og:image" content="ShareImage.png">
+   <meta name="twitter:image" content="https://www.amsterdamwarehouse.com/assets/img/ShareImage.png">
+      <link href="../favicon.ico" rel="icon" type="image/x-icon">
+      <title>Pagina is niet gevonden | Amsterdam Warehouse Company</title>
+      <link rel="stylesheet" href="../css/fancybox.css">
+   <link rel="stylesheet" href="../css/fancybox_1.css">
+   <link rel="stylesheet" href="../css/plugins_2.css" type="text/css" media="screen">
+   <link rel="stylesheet" href="../css/style_2.css" type="text/css" media="screen">
+   <link rel="stylesheet" href="../css/qwr3xmz.css">
+
+  	
+
+		<div id="preloader"></div>
+
+		<div class="progress-wrap cursor-pointer">
+	        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+	            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
+	        </svg>
+	    </div>
+
+	    <div class="mouse-cursor cursor-outer"></div>
+	    <div class="mouse-cursor cursor-inner"></div>
+
+		<header>
+   <div id="navi" class="topnav">
+      <div class="container-fluid">
+         <div class="flex-row">
+            <div class="menu-col menu-left">
+               <div class="menu-icon">
+                  <a class="btn btn-curve btn-trans" id="menu-toggle">
+                  <span class="txt-menu" id="menu-toggle-txt">Menu</span>
+                  <span class="txt-close" id="menu-toggle-txt-close">Close</span>
+                  </a>
+               </div>
+            </div>
+            <div class="menu-col menu-center">
+               <div class="logo">
+                  <a class="logo-22" href="/"><img src="logo_AWC_black.svg" alt="logo"></a>
+               </div>
+            </div>
+            <div class="menu-col menu-right hidden-xs">
+               <a target="_blank" href="https://order.amsterdamwarehouse.com/inloggen" class="btn btn-curve btn-trans"><span><i class="fa fa-download" aria-hidden="true"></i> Customer Portal</span></a>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="hamenu" id="site-menu">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-9 col-md-8">
+               <div class="menu-links">
+                  <ul class="main-menu">
+                     <li class="Depth_0 Active"><a class="link Active" href="/" target="_self"><span class="nm"><img class="icon-arrow" src="arrow.svg"></span>Home</a></li>
+                     <li class="Depth_0 Active"><a class="link target Active" href="/#streamer"><span class="nm"><img class="icon-arrow" src="arrow.svg"></span> Team</a></li>
+                     <li class="Depth_0 Active"><a class="link target Active" href="/#diensten"><span class="nm"><img class="icon-arrow" src="arrow.svg"></span> Services</a></li>
+                     <li class="Depth_0 Active"><a class="link target Active" href="/#contact"><span class="nm"><img class="icon-arrow" src="arrow.svg"></span> Contact</a></li>
+                  </ul>
+                  <div class="switch mt-30">
+                     <p><a class="btn btn-curve btn-trans" target="_blank" href="https://www.amsterdamfreight.com/"><span>Amsterdam Freight Company</span></a></p>
+                     <p><a class="btn btn-curve btn-trans" target="_blank" href="https://www.amsterdamcustoms.com/"><span>Amsterdam Customs Company</span></a></p>
+                     <div class="socials mt-30">
+                        <a target="_blank" href="https://nl.linkedin.com/company/amsterdam-warehouse-company">LinkedIn</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</header>
+		
+		
+		<main class="main-content" id="main">
+											</main>
+		<footer>
+    <div class="container">
+        <div class="row mb-30">
+            <div class="col-sm-12">
+                <h4>Take a look at one of our other companies</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="footer-logo">
+                    <a href="">
+                        <img src="logo_AWC_black.svg" alt="logo">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="footer-logo">
+                    <a href="https://www.amsterdamfreight.com">
+                        <img src="logo_AFC_black.svg" alt="logo">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="footer-logo">
+                    <a href="https://www.amsterdamcustoms.com">
+                        <img src="logo_ACC_black.svg" alt="logo">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-45 ">
+            <div class="col-lg-12">
+                <div class="inline vert-bottom">
+                    <img class="icon-arrow" src="arrow.svg">
+                </div>
+                <div class="inline vert-bottom">
+                    <h2 class="footer-title">The place to go</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row bottom">
+            <div class="col-lg-4">
+                © 2024 Amsterdam Warehouse Company
+            </div>
+            <div class="col-lg-8">
+              
+            </div>
+        </div>
+    </div>
+</footer>		<!-- jQuery -->
+<script src="../js/jquery-3.0.0.min.js"></script>
+<script src="../js/jquery-migrate-3.0.0.min.js"></script>
+
+<!-- plugins -->
+<script src="../js/plugins.js"></script>
+<script src="../js/countto.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+<script src="../js/fancybox.umd.js"></script>
+
+<!-- custom scripts -->
+<script src="../js/scripts.js"></script>
+<script type="text/javascript" src="../js/JavaScript_2.js"></script>	
+
+</body></html>
